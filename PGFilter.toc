@@ -1,0 +1,8 @@
+## Interface: 70000
+## Title: PGFilter
+## Version: 0.1alpha
+## Notes: Filter for the Premade Groups UI
+## Author: JadeFoXx
+## DefaultState: enabled
+
+Core.lua
